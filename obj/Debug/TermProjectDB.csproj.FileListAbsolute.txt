@@ -1,0 +1,14 @@
+C:\Users\miiwo\source\repos\TermProjectDB\bin\Debug\TermProjectDB.exe.config
+C:\Users\miiwo\source\repos\TermProjectDB\bin\Debug\TermProjectDB.exe
+C:\Users\miiwo\source\repos\TermProjectDB\bin\Debug\TermProjectDB.pdb
+C:\Users\miiwo\source\repos\TermProjectDB\obj\Debug\TermProjectDB.csprojAssemblyReference.cache
+C:\Users\miiwo\source\repos\TermProjectDB\obj\Debug\TermProjectDB.frmMain.resources
+C:\Users\miiwo\source\repos\TermProjectDB\obj\Debug\TermProjectDB.Properties.Resources.resources
+C:\Users\miiwo\source\repos\TermProjectDB\obj\Debug\TermProjectDB.csproj.GenerateResource.cache
+C:\Users\miiwo\source\repos\TermProjectDB\obj\Debug\TermProjectDB.csproj.CoreCompileInputs.cache
+C:\Users\miiwo\source\repos\TermProjectDB\obj\Debug\TermProjectDB.exe
+C:\Users\miiwo\source\repos\TermProjectDB\obj\Debug\TermProjectDB.pdb
+C:\Users\miiwo\source\repos\TermProjectDB\obj\Debug\TermProjectDB.frmDriver.resources
+C:\Users\miiwo\source\repos\TermProjectDB\obj\Debug\TermProjectDB.frmRider.resources
+C:\Users\miiwo\source\repos\TermProjectDB\obj\Debug\TermProjectDB.frmBrowseSchedule.resources
+C:\Users\miiwo\source\repos\TermProjectDB\obj\Debug\TermProjectDB.frmSchedule.resources
